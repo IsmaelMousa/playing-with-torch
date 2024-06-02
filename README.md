@@ -102,6 +102,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+<br>
+
+---
+
 ### References
 
 For more information on PyTorch, please refer to the official PyTorch
