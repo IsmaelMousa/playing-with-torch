@@ -5,7 +5,7 @@ PyTorch: Empowering innovation in AI with intuitive and powerful tools for deep 
 ## Overview
 
 This repository provides hands-on practice exercises and examples for **PyTorch**, covering a range of topics such
-as `data preprocessing`, `data manipulation`, `linear algebra`, and more.
+as `data preprocessing`, `data manipulation`, `linear algebra`,`training`, `optimizing` `neural networks`, `CNNs` and more.
 
 ## Purpose
 
